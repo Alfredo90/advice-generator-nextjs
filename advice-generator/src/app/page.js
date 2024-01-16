@@ -18,6 +18,7 @@ export default function Home() {
   return (
     <div>
       <h1>{quote.author}</h1>
+      <h2></h2>
     </div>
   );
 }
